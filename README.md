@@ -24,7 +24,7 @@ php artisan migrate
 ```
 If you see the warn:
 ```
- WARN  The MySQL database configured for this application does not exist: C:\path_to_app\todo-list\database\database.sqlite.
+ WARN  The MySQL database configured for this application does not exist: C:\path_to_app\todo-list\database\database.mysql.
 ```
 Type `yes` in command line.
 <br>
