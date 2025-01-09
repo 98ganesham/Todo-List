@@ -48,7 +48,7 @@
 
         <footer>
             <span>Made with <i class="fa-solid fa-heart"></i> by <a href="https://chawbelar-dhl.netlify.app/" target="_blank">chawbelar</a></span>
-            <span><a href="https://github.com/Fafikk/todo-list/" target="_blank">Github</a></span>
+            <span><a href="https://github.com/98ganesham/Todo-List" target="_blank">Github</a></span>
         </footer>
 	</body>
 </html>
